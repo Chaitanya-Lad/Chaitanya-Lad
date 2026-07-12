@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Chaitanya 👋<br>Business Analyst with 4+ years of experience in IoT-enabled healthcare product development, specializing in requirement gathering, stakeholder communication, business process analysis, and functional documentation. Strong technical background in Python development, Arduino, C/C++, IoT systems, and GUI design, with hands-on experience in software testing, Verification & Validation (V&V), test case execution, validation report generation, defect analysis, and product lifecycle management. Passionate about delivering scalable, user-centric solutions by effectively bridging business objectives with technical execution.
+# About Me:
+Hi, I'm Chaitanya. <br>Business Analyst with 4+ years of experience in IoT-enabled healthcare product development, specializing in requirement gathering, stakeholder communication, business process analysis, and functional documentation. Strong technical background in Python development, Arduino, C/C++, IoT systems, and GUI design, with hands-on experience in software testing, Verification & Validation (V&V), test case execution, validation report generation, defect analysis, and product lifecycle management. Passionate about delivering scalable, user-centric solutions by effectively bridging business objectives with technical execution.
 
 
 ## 🌐 Socials:

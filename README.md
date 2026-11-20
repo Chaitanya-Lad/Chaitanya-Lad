@@ -8,8 +8,6 @@ HOW TO USE
 5. Pin 4-6 repos (see the end of this file).
 -->
 
-==================== START README ====================
-
 # Hi, I'm Chaitanya Lad 👋
 
 **Python Software Engineer | Cloud, IoT & Systems Integration**
